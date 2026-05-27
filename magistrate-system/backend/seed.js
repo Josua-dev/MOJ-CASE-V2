@@ -3,7 +3,7 @@
  * Place in: magistrate-system/backend/seed.js
  * Run with: node seed.js
  */
-const Database = require('better-sqlite3');
+const Database = require('better-sqlite3'); 
 const path = require('path');
 const bcrypt = require('bcryptjs');
 const { v4: uuidv4 } = require('uuid');

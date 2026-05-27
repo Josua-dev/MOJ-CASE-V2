@@ -4,7 +4,7 @@ import Login from './pages/Login';
 import Dashboard from './pages/Dashboard';
 import Cases from './pages/Cases';
 import Sidebar from './components/Sidebar';
-import './index.css';
+import './index.css'; 
 
 const PAGE_TITLES = {
   dashboard: { title: 'Dashboard', subtitle: 'Overview of all cases and system activity' },
